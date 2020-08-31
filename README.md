@@ -1,8 +1,5 @@
 <h2 align="center">Sou o Fernando Oliveira.👋🤓</h2>
 
-
-Sou o Fernando Oliveira 💻
-
 <p align="center">Desenvolvedor de Software 💻, apaixonado por tecnologias de desenvolvimento web e mobile 💜.</p>
 
 ### 📫 Contacts
