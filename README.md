@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandoguide" alt="fernandoguide" /> </p>
 
-- 🔭 I’m currently working on **Caixa Economica Federal**
+- 🔭 I’m currently working on **k2 - Partinering**
 
 - 🌱 I’m currently learning **Angular , Spring-boot**
 
