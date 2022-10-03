@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandoguide" alt="fernandoguide" /> </p>
 
-- 🔭 I’m currently working on **k2 - Partnering**
+- 🔭 I’m currently working on **DASA**
 
 - 🌱 I’m currently learning **Angular , Spring-boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fernandoguide](https://github.com/fernandoguide)
 
-- 💬 Ask me about **Java ,Angular**
+- 💬 Ask me about **Java ,Angular,Javascript,NodeJs,Docker,Azure,AWS,**
 
 - 📫 How to reach me **fernandoguide2014@gmail.com**
 
