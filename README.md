@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **DASA**
 
-- 🌱 I’m currently learning **Angular , Spring-boot , Node.JS , React ,Vue ,Typescript ,Kafka, Docker **
+- 🌱 I’m currently learning ** Java , Angular , Spring-boot , Node.JS , React ,Vue ,Typescript ,Kafka, Docker , K8S **
 
 - 👨‍💻 All of my projects are available at [https://github.com/fernandoguide](https://github.com/fernandoguide)
 
-- 💬 Ask me about **Java ,Angular,Javascript,NodeJs,Docker,Azure,AWS,OCI,GCP, Kubernetes**
+- 💬 Ask me about **Java ,Angular,Typescript,NodeJs,Docker,Azure,AWS,OCI,GCP, Kubernetes**
 
 - 📫 How to reach me **fernandoguide2014@gmail.com**
 
