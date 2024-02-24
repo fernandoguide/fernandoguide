@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandoguide" alt="fernandoguide" /> </p>
 
-- 🔭 I’m currently working on **DASA**
+- 🔭 I’m currently working on **BANCO DIGIO**
 
 - 🌱 I’m currently learning ** Java , Angular , Spring-boot , Node.JS , React ,Vue ,Typescript ,Kafka, Docker , K8S **
 
